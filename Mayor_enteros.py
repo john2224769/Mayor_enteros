@@ -29,4 +29,5 @@ else:
         mayor=c
 
 #output
+print("El mayor de los numeros entre: "+str(a)+", "+str(b)+", "+str(c)+", es: "+str(mayor))
 
